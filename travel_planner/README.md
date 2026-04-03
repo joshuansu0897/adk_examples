@@ -1,6 +1,6 @@
 # Travel Planner
 
-It's the most simple agent
+It's the most simple agent.
 
 ## How to set up
 
