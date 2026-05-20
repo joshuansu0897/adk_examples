@@ -14,5 +14,6 @@ To get started with ADK, you can follow these steps:
     ```
 
 ## Examples
-- `travel_planner`: A simple travel planner agent that helps users plan their trips.
+- `travel_planner`: A simple travel planner agent that helps users plan their trips. (single-agent example)
+- `customer_service`: A customer service agent that can handle common customer inquiries and provide support. (multi-agent example)
 
