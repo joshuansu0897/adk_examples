@@ -16,5 +16,9 @@ uv sync
 ## How to run locally
 
 ```bash
-./run.sh
+# Activate the virtual environment
+source .venv/bin/activate
+
+# Run the agent
+adk web
 ```
